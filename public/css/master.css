@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+  margin-bottom: 60px;
+}
+
+.alert {
+    text-align: center;
+}
+
+.navbar-wrapper .container {
+    width: auto;
+}
+
+.container {
+    width: 65%;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+.col-lg-4 {
+    width: 32.5%;
+}
+
+.success {
+    color: limegreen;
+}
+
+.failure {
+    color: red;
+}
